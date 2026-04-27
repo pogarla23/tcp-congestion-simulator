@@ -7,6 +7,6 @@ A simulation of three TCP congestion control algorithms built with Python and Tk
 3. **Vegas** — watches RTT instead of waiting for loss
 
 ## How to Run
-Python Version 
-Install the one dependency: pip install matplotlib
-Then Run: python main.py
+1. Python Version 
+2. Install the one dependency: pip install matplotlib
+3. Then Run: python main.py
